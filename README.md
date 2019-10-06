@@ -6,7 +6,7 @@ Its an application based on the the selling and buying of agricultural products 
 
 
 
-<img src="./screenshots/login.png" height="380px"/>
+<img src="./screenshots/login.jpg" height="380px"/>
 
 
 
