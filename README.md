@@ -1,9 +1,12 @@
 # Vivasaya
 Its an application based on the the selling and buying of agricultural products in an much more benificial ways.it is just an prototype of the application,in which an transaction, some ui is shown. 
 
-## SPLASH SCREEN
+## SPLASH SCREEN  ## LOGIN PAGE 
+<div>
 <img src="./screenshots/splash.jpg" height="380px"/>
-
+<img src="./screenshots/login.jpg" height="380px"/>
+<img src="./screenshots/signup.jpg" height="380px"/>
+  </div>
 ## LOGIN PAGE
 
 <img src="./screenshots/login.jpg" height="380px"/>
